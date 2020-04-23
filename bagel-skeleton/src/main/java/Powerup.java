@@ -1,13 +1,10 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @description Powerup moves randomly on screen
  *              moves at speed 3 pixels per frame
  *              It only has a 1/10 chance to be created each turn
  *              Disappears when intercepted by ball and turns ball into fireball
  *              inherits Sprite
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import bagel.Window;
 import bagel.util.Point;

@@ -1,11 +1,8 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @description Bucket moves horizontally at bottom of screen and bounces of edge of screen
  *              If ball intercepts bucket, player gets an additional shot
  *              inherits Sprite
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import bagel.Window;
 import bagel.util.Point;

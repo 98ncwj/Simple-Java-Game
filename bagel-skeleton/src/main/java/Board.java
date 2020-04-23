@@ -1,11 +1,8 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @description Display all pegs on board
  *              contains layout of every peg on each board
  *              for this project, there are a total of 5 boards
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import java.util.*;
 import java.io.FileReader;

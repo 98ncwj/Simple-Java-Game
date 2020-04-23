@@ -1,10 +1,7 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @description abstract parent class of Ball and Peg
  *
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import bagel.Image;
 import bagel.util.Point;

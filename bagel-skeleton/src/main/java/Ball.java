@@ -1,10 +1,7 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @description parent class of Normal and Fireball
  *              inherits Sprite
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import bagel.Window;
 import bagel.util.Point;

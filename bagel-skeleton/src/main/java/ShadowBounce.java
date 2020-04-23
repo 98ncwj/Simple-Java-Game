@@ -1,12 +1,9 @@
 /**
- * SWEN20003 Object Oriented Software Development
- * Project 2b, Semester 2, 2019
- *
  * @Description Shadow Bounce is a game where the players objective is to destroy all red pegs before they run out of
  *              shots
  *              Player have 20 shots for each board
  *              Player wins when they succeed for all 5 boards
- * @author Nicholas 956970
+ * @author 98ncwj
  */
 import bagel.AbstractGame;
 import bagel.Input;
